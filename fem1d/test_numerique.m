@@ -1,7 +1,8 @@
-% Thierno DIOP (MAT-7430 H14)
+% Thierno DIOP (MAT-7430 H14) 
 % Script permettant de faire les tests pour fem1d
 % La fonction fem1d est appellé à la derniere ligne de code
 % Differents cas tests sont mis en evidence dans ce script
+% A ameliorer
 
 clear all;
 close all;
